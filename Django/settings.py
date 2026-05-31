@@ -173,8 +173,6 @@ AUTH_USER_MODEL = 'Api.Register'
 CORS_ALLOW_ALL_ORIGINS = True
 
 
-STRIPE_SECRET_KEY=" "
-
 # CORS_ALLOWED_ORIGINS=[
 #     "http://localhost:3000",
 # ]
