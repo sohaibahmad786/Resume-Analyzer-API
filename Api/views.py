@@ -20,7 +20,6 @@ from datetime import datetime, timedelta
 from rest_framework_simplejwt.authentication import JWTAuthentication
 from django.db.models import Q
 from rest_framework .viewsets import ModelViewSet
-import PyPDF2
 
 
 from .models import Register
